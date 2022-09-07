@@ -1,4 +1,4 @@
-# Vote App
+# Online Voting System
 
 freeCodeCamp Build a Voting App created with the MERN stack
 
