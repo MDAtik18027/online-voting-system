@@ -34,6 +34,7 @@ class CreatePoll extends Component {
   handleSubmit(e) {
     e.preventDefault();
     this.props.createPoll(this.state);
+    this.props.history.push('/');
   }
 
   render() {
